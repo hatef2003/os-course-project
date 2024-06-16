@@ -1,0 +1,19 @@
+{
+    "foods": [
+      {
+        "name": "Pizza",
+        "ingredients": ["dough", "tomato sauce", "cheese"],
+        "quantity": [1,2,3]
+      },
+      {
+        "name": "Burger",
+        "ingredients": ["bun", "beef patty", "lettuce"],
+        "quantity": [1,5,3]
+      },
+      {
+        "name": "Pasta",
+        "ingredients": ["spaghetti", "tomato sauce", "parmesan cheese"],
+        "quantity": [2,4,4]
+      }
+    ]
+}
